@@ -3,7 +3,8 @@
 Generator of possible answers for a word game
 
 ##Launch
-You have some alphabet with not necessarily unique letters, some required word length and a dictionary. The script comes with two dictionaries 'russian' and 'russian2'.
+You have some alphabet with not necessarily unique letters, some required word length and a dictionary. 
+The script comes with two Russian dictionaries 'russian' and 'russian2' and a couple of English dictionaries 'english.adj' 'english.adv' 'english.noun' 'english.verb'
 Then you just running the script and getting possible words.
 
 ```
